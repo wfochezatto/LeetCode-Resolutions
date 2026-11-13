@@ -1,4 +1,4 @@
-# Exercise Integer to Roman
+# Exercise Integer to Roman Medium
 
 Seven different symbols represent Roman numerals with the following values:
 

@@ -1,4 +1,4 @@
-# Exercise Roman to Int
+# Exercise Roman to Int Easy
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
